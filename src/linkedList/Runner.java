@@ -5,6 +5,9 @@ public class Runner {
 	{
 		LinkedList list=new LinkedList();
 		list.addOwn(5);
+		list.addOwn(10);
+		
+		list.show();
 	}
 
 }
